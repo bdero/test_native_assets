@@ -1,0 +1,6 @@
+{
+    "SimpleVertex": {
+        "type": "vertex",
+        "file": "shaders/flutter_scene_simple.vert"
+    }
+}
